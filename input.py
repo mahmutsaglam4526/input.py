@@ -1,12 +1,12 @@
-number1 = int(input("Enter Number 1: "))
-number2 = int(input("Enter Number 2: "))
-print("Entered number 1 :", number1)
-print("Entered number 2 :", number2)
-sum = number1 + number2
-difference = number1 / number2
-division = number1 + number2
-product = number1 * number2
-print("sum of entered 2 numbers is: ", sum)
-print("sum of entered 2 numbers difference is: ", difference)
-print("sum of entered 2 numbers division is: ", division)
-print("sum of entered 2 numbers math is: ", product)
+input1 = int(input("Enter Number 1: "))
+input2 = int(input("Enter Number 2: "))
+print("Entered number 1 :", input1)
+print("Entered number 2 :", input2)
+sum = input1 + input2
+difference = input1 / input2
+division = input1 - input2
+product = input1 * input2
+print("sum of entered 2 inputs is: ", sum)
+print("sum of entered 2 inputs difference is: ", difference)
+print("sum of entered 2 inputs division is: ", division)
+print("sum of entered 2 inputs math is: ", product)
