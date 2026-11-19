@@ -1,5 +1,5 @@
-input1 = int(input("Enter Number 1: "))
-input2 = int(input("Enter Number 2: "))
+input1 = int(input("Enter Input 1: "))
+input2 = int(input("Enter Input 2: "))
 print("Entered number 1 :", input1)
 print("Entered number 2 :", input2)
 sum = input1 + input2
